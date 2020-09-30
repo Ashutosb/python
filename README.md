@@ -93,11 +93,11 @@ end
 - :delete: deletes an existing virtualenv
 
 #### Attribute Parameters
-- path: name attribute. The path where the virtualenv will be created
-- interpreter: The Python interpreter to use. default is null (i.e. use whatever python the virtualenv command is using).
-- owner: The owner for the virtualenv
-- group: The group owner of the file (string or id)
-- options : Command line options (string)
+- Path: Name Attribute. The path where the virtualenv will be created
+- Interpreter: The Python interpreter to use. default is null (i.e. use whatever python the virtualenv command is using).
+- Owner: The owner for the virtualenv
+- Group: The group owner of the file (string or id)
+- Options : Command line options (string)
 
 #### Examples
 
